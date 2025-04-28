@@ -1,0 +1,5 @@
+﻿control_id,control_name,status,owner
+AC-1,Access Control Policy,Pass,Alice
+AC-2,Account Management,Fail,Bob
+AU-1,Audit Logging,Pass,Charlie
+SC-1,Encryption Standards,Fail,Alice
